@@ -11,3 +11,7 @@
 ## Text
 
 * [browsh](https://www.brow.sh/) - "a fully-modern text-based browser. It renders anything that a modern browser can; HTML5, CSS3, JS, video and even WebGL. Its main purpose is to be run on a remote server and accessed via SSH/Mosh or the in-browser HTML service in order to significantly reduce bandwidth and thus both increase browsing speeds and decrease bandwidth costs"
+* [eww](https://www.gnu.org/software/emacs/manual/html_mono/eww.html) - "Emacs Web Browser"
+* [links](http://links.twibright.com/)
+* [lynx](https://lynx.invisible-island.net/)
+* [w3m](https://w3m.sourceforge.net/)
